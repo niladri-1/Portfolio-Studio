@@ -4,7 +4,7 @@
 
   Welcome to my portfolio! I'm a **Web Developer** and **Digital Visual Artist** passionate about designing clean, interactive, and engaging web experiences.
 
-  ![Portfolio Screenshot](path-to-your-image)
+  ![Portfolio Screenshot](https://github.com/niladri-1/Portfolio-Studio/blob/main/src/png/preview.png)
 
   ---
 
